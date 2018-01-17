@@ -1,12 +1,32 @@
-
 {
-    "name": "WebChat",
-    "version": "0.0.1",
-    "description": "Web chat boilerplate",
-    "dependencies": {
-        "socket.io": "latest",
-        "express": "latest",
-        "jade": "latest"
-    },
-    "author": "Gustavo Felício"
+  "name": "webchat",
+  "version": "0.0.1",
+  "description": "Web chat boilerplate",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "jade": "latest"
+  },
+  "author": "Gustavo Felício",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gFelicio/webChat.git"
+  },
+  "keywords": [
+    "webchat",
+    "chat",
+    "real-time",
+    "socket.io",
+    "node.js"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gFelicio/webChat/issues"
+  },
+  "homepage": "https://github.com/gFelicio/webChat#readme"
 }
