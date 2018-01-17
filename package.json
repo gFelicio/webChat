@@ -1,0 +1,12 @@
+
+{
+    "name": "WebChat",
+    "version": "0.0.1",
+    "description": "Web chat boilerplate",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Gustavo Felício"
+}
